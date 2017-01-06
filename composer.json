@@ -1,8 +1,7 @@
 {
-    "name": "dzunke/slack-bundle",
+    "name": "elmpp/slack-bundle",
     "description": "Symfony2 Integration for Slack - supporting Monolog",
     "keywords": ["symfony", "api", "bundle", "slack", "monolog", "logger", "messaging"],
-    "homepage": "https://github.com/DZunke/SlackBundle",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
@@ -21,11 +20,5 @@
     },
     "autoload": {
         "psr-0": { "DZunke\\SlackBundle": "" }
-    },
-    "target-dir": "DZunke/SlackBundle",
-    "extra": {
-        "branch-alias": {
-            "dev-dev": "2.0-dev"
-        }
     }
 }
