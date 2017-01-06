@@ -18,6 +18,11 @@
         "guzzlehttp/guzzle": "^6.2.1"
     },
     "autoload": {
-        "psr-0": { "DZunke\\SlackBundle": "" }
+        "psr-4": {
+            "DZunke\\SlackBundle\\": ""
+        },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
     }
 }
