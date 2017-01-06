@@ -16,8 +16,5 @@
         "php": ">=5.6",
         "symfony/symfony": "~2.8|~3.0",
         "guzzlehttp/guzzle": "^6.2.1"
-    },
-    "autoload": {
-        "psr-0": { "elmpp\\SlackBundle": "" }
     }
 }
