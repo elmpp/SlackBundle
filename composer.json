@@ -2,7 +2,6 @@
     "name": "elmpp/slack-bundle",
     "description": "Symfony2 Integration for Slack - supporting Monolog",
     "keywords": ["symfony", "api", "bundle", "slack", "monolog", "logger", "messaging"],
-    "homepage": "https://github.com/elmpp/SlackBundle",
     "license": "MIT",
     "authors": [
         {
